@@ -71,7 +71,6 @@
 // console.log(consoleType('Salom'))
 
 // 9-ish
-
 // class Talaba {
 //   private ism: string
 //   private kurs: number
