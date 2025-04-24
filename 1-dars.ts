@@ -83,7 +83,6 @@
 //     return `O'quvchining ismi ${this.ism}, kursi ${this.kurs}`
 //   }
 // }
-
 // const oquvchi = new Talaba('Mirkamol', 2)
 // console.log(oquvchi.getStudentInfo())
 
